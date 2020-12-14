@@ -1,0 +1,6 @@
+flask
+gevent
+opencv-python
+pillow
+scipy
+face_recognition
